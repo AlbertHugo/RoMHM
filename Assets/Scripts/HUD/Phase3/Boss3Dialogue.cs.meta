@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58ac7ad6b6f5e92469e1b91050a6cc8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialoguePanel: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - dialogueImage: {instanceID: 0}
+  - dialogueName: {instanceID: 0}
+  - typingSound: {fileID: 8300000, guid: 285fb723325547545977d86c25795ce8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 30a01cd0dc931944e8de4f7de8081efd
+  - enabled: 1
+    path: Assets/Scenes/Phase1.unity
+    guid: 6a63133ade62e6549904c61c4fd6e48c
+  - enabled: 1
+    path: Assets/Scenes/Boss1.unity
+    guid: bfe718b8e3b10c14b96409fe1f03c33e
+  - enabled: 1
+    path: Assets/Scenes/Defeat.unity
+    guid: a40da9333e0f52d41b90b7873dbae641
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: eb3b2dcb1f5dbde49af8e80041872b24
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 3bfac0ea204623e47bf5b8ec0bf8394a
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: b871ee850cab55a408564d43330d9cbf
+  - enabled: 1
+    path: Assets/Scenes/Phase2.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Defeat2.unity
+    guid: 034678c24155c6643b6519762dc7e035
+  - enabled: 1
+    path: Assets/Scenes/HQ.unity
+    guid: 48a16dff7d36e6b4db02d0064d96ecf1
+  - enabled: 1
+    path: Assets/Scenes/Boss2.unity
+    guid: 6e98b065380c26948b7b21d79c417de0
+  - enabled: 1
+    path: Assets/Scenes/Phase3.unity
+    guid: c49355f2c16ff6049b2f6eefc493ae31
+  - enabled: 1
+    path: Assets/Scenes/Defeat3.unity
+    guid: 182b0d95ad5ebaa408dfce435528a2fc
+  - enabled: 1
+    path: Assets/Scenes/Boss3.unity
+    guid: d6313a7108ad63a4a9e4e1db415b873e
+  - enabled: 1
+    path: Assets/Scenes/Phase4.unity
+    guid: e55e7d542bccbdc4781e369b71f8baf8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 5f3aaff329d9d3a4ebb6b9f8dd7673f0
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

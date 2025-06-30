@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 63cd6c88ec13d704bbede1eeef2cc3f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerRenderer: {instanceID: 0}
+  - unfocusedShot: {instanceID: 0}
+  - focusedShot: {instanceID: 0}
+  - destructiveShot: {instanceID: 0}
+  - chargedShot: {instanceID: 0}
+  - box: {instanceID: 0}
+  - shieldPrefab: {instanceID: 0}
+  - boss: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - powerUp: {instanceID: 0}
+  - charging: {fileID: 8300000, guid: adacbd2607af67647a11fea1981aaafc, type: 3}
+  - chargeOn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
